@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Griffin, a PhD student studying immunometabolism. I use he/him pronouns.
 <!--
 **GriffinGowdy/GriffinGowdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
